@@ -1,6 +1,6 @@
 ## Hi i'm Ivan Andres Castro Ruiz Fullstack web developer
 <div align="center">
-  <a href="https://github.com/andresjam97">
+  <a href="https://github.com/icastro97">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=icastro97&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icastro97&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
