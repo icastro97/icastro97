@@ -1,115 +1,66 @@
- <div align="center">
+<div align="center">
 
-# Hi, I'm Ivan Andres Castro Ruiz 👋
-
-### Senior Full Stack Developer · Software Engineer · Tech Lead
-
-Building scalable applications, reliable APIs, and solutions that connect technology with real business needs.
+<!-- HERO -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:06121F,45:063B45,100:00AB84&text=IVAN%20ANDRES%20CASTRO%20RUIZ&fontColor=FFFFFF&fontSize=34&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20TECH%20LEAD&descSize=17&descAlignY=60&animation=fadeIn" alt="Ivan Andres Castro Ruiz — Full Stack Developer and Tech Lead"/>
 
 <br/>
 
 <a href="https://github.com/icastro97">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-071521?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/ivan-andres-castro-ruiz-647079173">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-071521?style=for-the-badge&logo=linkedin&logoColor=00AB84" alt="LinkedIn"/>
 </a>
 <a href="mailto:castroruizivanandres@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-071521?style=for-the-badge&logo=gmail&logoColor=00AB84" alt="Email"/>
 </a>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=180&color=0:00AB84,50:087F8C,100:171B36&text=Code.%20Build.%20Improve.&fontColor=FFFFFF&fontSize=38&fontAlignY=50&animation=fadeIn" width="100%" alt="Code. Build. Improve."/>
+<br/><br/>
+
+**I build scalable applications, reliable APIs, and software that solves real business problems.**
+
+*From frontend experiences to backend systems, databases, and production infrastructure.*
 
 </div>
 
-## `$ whoami`
-
-I'm a Full Stack Developer passionate about designing, developing, and maintaining software that solves real-world problems.
-
-My experience spans backend engineering, frontend development, database design, API integrations, infrastructure, and deployment workflows. I enjoy understanding the entire system — from the user interface to the database and production environment.
-
-Currently, I'm growing into technical leadership, focusing on better engineering practices, maintainable architectures, code quality, and helping development teams deliver software more effectively.
-
-- 🔭 **Currently working at:** Megalabs
-- 🧠 **Core expertise:** PHP, Laravel, JavaScript, and full stack development
-- 🏗️ **Engineering interests:** System architecture, APIs, databases, DevOps, and automation
-- 🐳 **Infrastructure:** Docker, Linux, cloud deployments, and CI/CD workflows
-- 👥 **Leadership:** Technical planning, code reviews, development standards, and team collaboration
-- 🌱 **Always learning:** New technologies, better architectures, and open-source development
-- 🎯 **Long-term goal:** Build impactful software and contribute to the open-source community
-
 ---
 
-## `$ tech-stack --all`
+## `> whoami`
 
-### Backend & API Engineering
+I'm a Full Stack Developer working across the software development lifecycle: understanding requirements, designing solutions, building interfaces and APIs, managing databases, and supporting deployments.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,python,go,dotnet,nodejs,fastapi" alt="Backend technologies"/>
-</p>
-
-### Frontend & UI Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,vue,html,css,tailwind,bootstrap" alt="Frontend technologies"/>
-</p>
-
-### Databases & Data
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="Database technologies"/>
-</p>
-
-### DevOps, Cloud & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,aws,azure,git,github,bash,nginx" alt="DevOps and development tools"/>
-</p>
-
-> My approach is to choose the right technology for the problem, prioritize maintainability, and build systems that can evolve with business requirements.
-
----
-
-## `$ engineering-principles`
+I'm also growing into technical leadership, with a focus on maintainable architecture, code quality, clear engineering standards, and helping teams deliver reliable software.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏛️ Architecture
-- Maintainable and modular code
-- Clear separation of responsibilities
-- Reusable components and services
-- Scalable application design
+**▸ CURRENT ROLE**
+
+Developer · Megalabs
+
+**▸ CORE EXPERTISE**
+
+PHP · Laravel · JavaScript · Full Stack Development
+
+**▸ ENGINEERING INTERESTS**
+
+System design · APIs · Databases · Automation
 
 </td>
 <td width="50%" valign="top">
 
-### 🛡️ Code Quality
-- Clean code and SOLID principles
-- Code reviews and pull requests
-- Automated testing where appropriate
-- Consistent development standards
+**▸ INFRASTRUCTURE**
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+Docker · Linux · Cloud environments · Deployment workflows
 
-### ⚙️ Delivery & Infrastructure
-- Dockerized development environments
-- Database management and optimization
-- Deployment and troubleshooting
-- Environment and configuration management
+**▸ TECHNICAL LEADERSHIP**
 
-</td>
-<td width="50%" valign="top">
+Technical planning · Code reviews · Standards · Mentoring
 
-### 🤝 Technical Leadership
-- Breaking down requirements into tasks
-- Technical estimation and planning
-- Supporting developers and reviewing code
-- Improving team workflows and documentation
+**▸ LONG-TERM GOAL**
+
+Contribute to open source and build useful technology.
 
 </td>
 </tr>
@@ -117,56 +68,178 @@ Currently, I'm growing into technical leadership, focusing on better engineering
 
 ---
 
-## `$ github --stats`
+## `> tech-stack --grouped`
+
+<div align="center">
+
+### Backend & APIs
+
+<img src="https://skillicons.dev/icons?i=php,laravel,python,go,dotnet,nodejs,fastapi" alt="PHP, Laravel, Python, Go, .NET, Node.js and FastAPI"/>
+
+### Frontend & UI
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,vue,html,css,tailwind,bootstrap" alt="JavaScript, TypeScript, React, Next.js, Angular, Vue, HTML, CSS, Tailwind and Bootstrap"/>
+
+### Databases & Data
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" alt="MySQL, PostgreSQL, MongoDB and Redis"/>
+
+### DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=docker,linux,aws,azure,git,github,bash,nginx" alt="Docker, Linux, AWS, Azure, Git, GitHub, Bash and Nginx"/>
+
+</div>
+
+<sub>Technologies shown reflect tools I've worked with or explored across projects; experience and depth vary by technology.</sub>
+
+---
+
+## `> engineering-principles`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Architecture
+- Modular, maintainable code
+- Clear separation of concerns
+- Reusable services and components
+- Design for evolving requirements
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Code Quality
+- Clean code and SOLID principles
+- Pull requests and code reviews
+- Testing where it adds value
+- Consistent development standards
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Delivery & Infrastructure
+- Dockerized environments
+- Database management and optimization
+- Deployment and troubleshooting
+- Configuration and environment management
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Technical Leadership
+- Requirements breakdown and estimation
+- Technical planning and documentation
+- Developer support and collaboration
+- Continuous workflow improvement
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> selected_work`
+
+A few areas of work that reflect my engineering interests. Some professional systems are private, so I only share public code and approved details.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Backend & API Engineering
+
+Designing APIs and backend services with Laravel, Python/FastAPI, and .NET, with attention to maintainability, integrations, and data flow.
+
+**Focus:** API design · Business logic · Integrations · Reliability
+
+</td>
+<td width="50%" valign="top">
+
+### 🧩 Full Stack Applications
+
+Building end-to-end applications that connect frontend interfaces, backend services, and relational or document databases.
+
+**Focus:** React · Next.js · Laravel · SQL · Application design
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🐳 Infrastructure & Automation
+
+Containerized environments, deployment workflows, Linux server administration, and practical automation for development and operations.
+
+**Focus:** Docker · Linux · Nginx · Cloud · Automation
+
+</td>
+<td width="50%" valign="top">
+
+### 👥 Engineering Practices
+
+Improving how software is delivered through technical documentation, code reviews, estimation, development standards, and collaboration.
+
+**Focus:** Code quality · Team workflows · Technical leadership
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> github --stats`
 
 <div align="center">
 
 <a href="https://github.com/icastro97">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=icastro97&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Ivan's GitHub statistics"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=icastro97&show_icons=true&theme=transparent&hide_border=true&title_color=00AB84&icon_color=00AB84&text_color=C9D1D9&ring_color=00AB84" alt="GitHub statistics for icastro97"/>
 </a>
 <a href="https://github.com/icastro97">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icastro97&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icastro97&layout=compact&langs_count=8&theme=transparent&hide_border=true&title_color=00AB84&text_color=C9D1D9" alt="Most used languages for icastro97"/>
 </a>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=icastro97&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=icastro97&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="GitHub profile trophies"/>
+<img src="https://streak-stats.demolab.com?user=icastro97&theme=transparent&hide_border=true&ring=00AB84&fire=00AB84&currStreakLabel=00AB84&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak"/>
 
 </div>
 
----
-
-## `$ currently-exploring`
-
-- 🧩 Modern application architectures and system design
-- 🚀 Improving development workflows and deployment automation
-- 🧪 Better testing strategies and engineering quality standards
-- 🤖 AI-assisted development and practical automation
-- 🌍 Contributing to open-source projects and sharing knowledge
+<sub>Stats are provided by third-party services and may occasionally be unavailable or incomplete.</sub>
 
 ---
 
-## `$ connect --with-ivan`
+## `> currently_exploring`
 
-I'm always interested in discussing software engineering, architecture, challenging projects, and opportunities to build useful technology.
+- **System design:** architecture choices, maintainability, and scalability.
+- **DevOps & automation:** more repeatable development and deployment workflows.
+- **Testing & quality:** practical strategies for dependable software.
+- **AI-assisted development:** using tools thoughtfully to improve engineering workflows.
+- **Open source:** contributing code, documentation, and useful improvements.
+
+---
+
+## `> let's_connect`
+
+I'm happy to connect with developers, engineering teams, and people building useful products. If you'd like to discuss software engineering, architecture, or a challenging project, reach out.
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/ivan-andres-castro-ruiz-647079173">
-  <img src="https://img.shields.io/badge/Let's%20connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-00AB84?style=for-the-badge&logo=linkedin&logoColor=071521" alt="Connect on LinkedIn"/>
 </a>
 <a href="mailto:castroruizivanandres@gmail.com">
-  <img src="https://img.shields.io/badge/Let's%20talk%20about%20your%20project-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Ivan by email"/>
+  <img src="https://img.shields.io/badge/EMAIL%20ME-102B38?style=for-the-badge&logo=gmail&logoColor=00AB84" alt="Email Ivan"/>
 </a>
 
 <br/><br/>
 
-*"Great software isn't just written. It's designed, understood, tested, and continuously improved."*
+*“Great software isn't just written. It's designed, understood, tested, and continuously improved.”*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00AB84,100:171B36&height=100&section=footer" width="100%" alt="Footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:00AB84,100:06121F" alt="Emerald footer"/>
+
+**`CODE`** &nbsp; › &nbsp; **`BUILD`** &nbsp; › &nbsp; **`IMPROVE`**
 
 </div>
